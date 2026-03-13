@@ -1,7 +1,6 @@
 #  1.Mean and variance of a discrete  distribution
-
-
-# Aim : To find mean and variance of arrival of objects from the feeder using probability distribution
+# 28/01/2026
+# Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
 
